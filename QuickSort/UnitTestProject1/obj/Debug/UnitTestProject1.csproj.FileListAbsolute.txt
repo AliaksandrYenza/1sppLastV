@@ -1,0 +1,9 @@
+D:\teach\labs\QuickSort\QuickSort\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\teach\labs\QuickSort\QuickSort\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\teach\labs\QuickSort\QuickSort\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\teach\labs\QuickSort\QuickSort\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\teach\labs\QuickSort\QuickSort\UnitTestProject1\bin\Debug\QuickSort.exe
+D:\teach\labs\QuickSort\QuickSort\UnitTestProject1\bin\Debug\QuickSort.pdb
+D:\teach\labs\QuickSort\QuickSort\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\teach\labs\QuickSort\QuickSort\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\teach\labs\QuickSort\QuickSort\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
